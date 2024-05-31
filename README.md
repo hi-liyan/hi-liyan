@@ -36,13 +36,8 @@
 
 <br/>
 
-## Github Stats
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hi-liyan&show_icons=true&count_private=true&hide_border=true&theme=omni" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-liyan&hide_border=true&layout=compact&theme=omni&hide=javascript" align="left" />
-</div>
-
-<br/>
-
-## Visitor
-<img src="https://count.getloli.com/get/@hi-liyan?theme=rule34" alt="hi-liyan" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hi-liyan/hi-liyan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hi-liyan/hi-liyan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hi-liyan/hi-liyan/output/github-contribution-grid-snake.svg">
+</picture>
